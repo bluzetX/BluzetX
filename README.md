@@ -10,6 +10,7 @@ shadowcj@github
 OS: Arch Linux
 CPU: AMD Ryzen 5 3600X
 GPU: NVIDIA GeForce GTX 1080 Ti
+Laptop: ThinkPad T480
 Shell: Bash + Oh-My-Bash
 Discord: shadowcj
 ```
