@@ -1,2 +1,15 @@
-## Discord: ShadowCj
-<img src="https://i.ibb.co/0KPWxQ8/SQ-Ford-Crown-Victoria.jpg" width="2048" >
+```bash
+> fastfetch
+```
+
+<img align="left" src="bocchi.png" width="170" /> 
+
+```cs
+shadowcj@github
+----------------
+OS: Arch Linux
+CPU: AMD Ryzen 5 3600X
+GPU: NVIDIA GeForce GTX 1080 Ti
+Shell: Bash + Oh-My-Bash
+Discord: shadowcj
+```
